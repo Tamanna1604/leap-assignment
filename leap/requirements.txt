@@ -1,0 +1,8 @@
+streamlit
+snscrape
+praw
+requests
+textblob
+keybert
+scikit-learn
+sentence-transformers 
